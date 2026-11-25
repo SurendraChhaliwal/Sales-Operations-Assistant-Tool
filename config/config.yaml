@@ -1,0 +1,6 @@
+assistant:
+  model: gpt-4o-mini
+  max_rounds: 8
+  data_file: data/sales_database.xlsx
+
+output_dir: output
